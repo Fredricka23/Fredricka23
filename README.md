@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Fredricka David
+- I am AWS CCP, AWS SAA and KCNA certified.
 - 📫 How to reach me frederickadavid@gmail.com
 
 <!---
